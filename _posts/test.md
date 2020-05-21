@@ -1,5 +1,7 @@
+layout: page
 title: A blog post
-date: 2014-09-01
+permalink: /blog/
+date: YYYY-MM-DD hh:mm:ss -0000
 tags: ["meta", "yaml"]
 ---
 # Blogpost with meta data
